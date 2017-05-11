@@ -12,7 +12,7 @@
 # Please see LICENSE.txt for applicable license terms and NOTICE.txt for applicable notices. 
 */
 
-$AppName = "PHP Web App";
+$AppName = "DEMO Web App";
 
 ob_start();
 

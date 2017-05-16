@@ -12,7 +12,7 @@
 # Please see LICENSE.txt for applicable license terms and NOTICE.txt for applicable notices. 
 */
 
-$AppName = "Yuva DEMO Web Aplicationp";
+$AppName = "Yuva DEMO Web Application";
 
 ob_start();
 
